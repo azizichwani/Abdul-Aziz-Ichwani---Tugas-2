@@ -918,7 +918,7 @@ MonoBehaviour:
   ySpawnRange:
     min: 0.5
     max: 0.5
-  defaultSpawnPos: {x: 17.44, y: 0, z: 0}
+  defaultSpawnPos: {x: 8, y: 0, z: 0}
   spawnImmediate: 1
   immediateSpawnPos: {x: 0, y: 0, z: 0}
   targetAspectsRatio: {x: 10, y: 16}
@@ -1321,7 +1321,7 @@ MonoBehaviour:
   ySpawnRange:
     min: 0.5
     max: 0.5
-  defaultSpawnPos: {x: 17.44, y: 0, z: 0}
+  defaultSpawnPos: {x: 8, y: 0, z: 0}
   spawnImmediate: 1
   immediateSpawnPos: {x: 0, y: 0, z: 0}
   targetAspectsRatio: {x: 10, y: 16}
